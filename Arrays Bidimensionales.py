@@ -2,6 +2,7 @@
 import numpy as np
 np.arange(0,9)
 np.reshape(np.array(np.arange(0,9)),(3,3))
+np.eye(6)
 
 # COMMAND ----------
 
