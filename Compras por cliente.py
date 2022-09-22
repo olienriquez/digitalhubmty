@@ -31,13 +31,4 @@ elif tiempo > 60:
 
 # COMMAND ----------
 
-tiempo
-
-
-# COMMAND ----------
-
-((tiempo // 60)-1) * 15
-
-# COMMAND ----------
-
 
